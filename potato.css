@@ -21,82 +21,80 @@ h1 {
 #body { 
   top: 28px; left: 68px; 
 }
-/* Insert CSS for arms below this line*/
+
+#arms_image {
+  position:fixed;
+  top:180px;
+  left:29px;
+}
+
+#ears_image {
+  position:fixed;
+  top:103px;
+  left:59px;
+}
+
+#eyes_image {
+  position:fixed;
+  top:90px;
+  left:130px;
+}
+
+#mouth_image {
+  bottom: 200px;
+  left: 115px;  
+}
+
+#nose_image {
+  top: 130px;
+  left: 130px;
+}
+
+#eyebrows_image {
+  position:fixed;
+  top:75px;
+  left:100px;
+}
+
+#glasses_image {
+  top: 75px;
+  left: 97px;
+}
+
+#hat_image {
+  position:fixed;
+  top:0px;
+  left:95px;
+}
+
+
+
+#moustache_image {
+  top: 160px;
+  left: 90px;
+}
+
+#shoes_image {
+  bottom: 100px;
+  left: 45px;
+}
+
+#cane_image {
+  
+}
+
+#earrings_image {
+
+}
 
 
 
 
-/* Insert CSS for ears below this line*/
 
+#hatflower_image {
+  
+}
 
-
-
-/* Insert CSS for eyes below this line*/
-
-
-
-
-/* Insert CSS for mouth below this line*/
-
-
-
-
-/* Insert CSS for nose below this line*/
-
-
-
-
-/* Insert CSS for eyebrows below this line*/
-
-
-
-
-/* Insert CSS for glasses below this line*/
-
-
-
-
-/* Insert CSS for hat below this line*/
-
-
-
-
-/* Insert CSS for arms below this line*/
-
-
-
-
-/* Insert CSS for moustache below this line*/
-
-
-
-
-/* Insert CSS for shoes below this line*/
-
-
-
-
-/* Insert CSS for cane below this line*/
-
-
-
-
-/* Insert CSS for earrings below this line*/
-
-
-
-
-/* Insert CSS for arms below this line*/
-
-
-
-
-/* Insert CSS for hatflower below this line*/
-
-
-
-
-/* Insert CSS for boosters below this line*/
-
-
+#boosters_image {
+  
 
